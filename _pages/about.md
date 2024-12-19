@@ -21,19 +21,19 @@ This is a winter-themed variety pack for Kono Oozora ni, Tsubasa o Hirogete, inc
 [Download and Installation](#download-and-installation)
 ======
 
-Download the english patch here (*current version v1.01*):
+Download the english patch here (*current version v1.0*):
 [Google Drive](placeholder) | [MediaFire](placeholder) 
 
 ***This patch has been tested on the DISC RELEASE only, however the DOWNLOAD RELEASE should be compatible. If there are any issues, please contact nReus (sviiseven) on discord: @sviiseven***
 
 Using an archive extracting program, such as 7zip or WinRAR, extract the files to the game folder that contains `AdvHD.exe`. Back up any any conflicting files, then overwrite. 
 
-[Some things to note...](#extra-notes)
+Some things to note...
 ======
 - You ***do not*** need to set your computer to Japanese locale and region formatting. Running via `AdvHDENG.exe` should allow you to proceed without having to change any settings. (Our patch implements the Locale Emulator program by xupefei via the Universal Injector Framework by AtomCrafty.)
 
 [Snowy Ryujin](#snowy-ryujin)
-------
+======
 ![Snowy Ryujin](https://i.imgur.com/XP8jXB2.png)
 
 Studio Frisay is the group conducting the English translation/localization of `H2O √ after and another Complete story Edition`, and is led by Tooko.
