@@ -36,8 +36,6 @@ Some things to note...
 ======
 ![Snowy Ryujin](https://i.imgur.com/XP8jXB2.png)
 
-Studio Frisay is the group conducting the English translation/localization of `H2O √ after and another Complete story Edition`, and is led by Tooko.
-
 Snowy Ryujin is the team behind this English translation of `Kono Oozora ni, Tsubasa o Hirogete Snow Presents`.
 
 | Team member | Role |
