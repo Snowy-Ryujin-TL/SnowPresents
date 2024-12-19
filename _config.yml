@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Snow Presents Englis Patch"
+title                    : "Snow Presents English Patch"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
