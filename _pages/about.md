@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-> Test 123
-
 ![front](https://i.imgur.com/EVQQBZI.png)
 
 Synposis
