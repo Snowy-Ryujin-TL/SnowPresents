@@ -23,11 +23,11 @@ This is a winter-themed variety pack for Kono Oozora ni, Tsubasa o Hirogete, inc
 
 Download the English patch here *(current version v1.0)*:
 
-[MediaFire](https://www.mediafire.com/file/yx6rr7z5x6mmdrk/KonosoraSP_ENG_v1.zip/file) • [Dropbox](https://www.dropbox.com/scl/fi/4kqw8s238a7fvwjbf2tkq/KonosoraSP_ENG_v1.zip?rlkey=r0w0zr6djzbiwchzqidp3ugkt&st=7ac3wz7v&dl=0) • [Google Drive](https://drive.google.com/file/d/1mgE8wiTiHrF9KhA5_tnVJgRU1oV4KD4y/view?usp=sharing)
+[MediaFire](https://www.mediafire.com/file/yx6rr7z5x6mmdrk/KonosoraSP_ENG_v1.zip/file) • [Dropbox](https://www.dropbox.com/scl/fi/4kqw8s238a7fvwjbf2tkq/KonosoraSP_ENG_v1.zip?rlkey=r0w0zr6djzbiwchzqidp3ugkt&st=7ac3wz7v&dl=0) • [Mega](https://mega.nz/file/GdAFUCxa#kUTrlwQnvhdOjHvO55vGuALns6dva5T5fVM_T6hbRPg)
 
 ***Consult `readme.txt` for installation instructions. If there are any issues found after following the readme, please contact nReus (sviiseven) on discord: `@sviiseven`***
 
-*Using an archive extracting program, such as 7zip or WinRAR, extract the files to the game folder that contains `AdvHD.exe`. Back up any any conflicting files, then overwrite.*
+*Extract the patch files using an archive extracting program such as 7zip or WinRAR.*
 
 Some things to note...
 ======
