@@ -27,6 +27,8 @@ Download the English patch here *(current version v1.01)*:
 
 ***Consult `readme.txt` for installation instructions. If there are any issues found after following the readme, please contact nReus (sviiseven) on discord: `@sviiseven`***
 
+***Download release players:*** Install the game outside of `Program Files (x86)`, then apply our patch to the `data` folder in your installation. A future release will not require this.
+
 *Extract the patch files using an archive extracting program such as 7zip or WinRAR.*
 
 Some things to note...
