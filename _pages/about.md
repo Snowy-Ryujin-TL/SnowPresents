@@ -21,9 +21,9 @@ This is a winter-themed variety pack for Kono Oozora ni, Tsubasa o Hirogete, inc
 [Download and Installation](#download-and-installation)
 ======
 
-Download the English patch here *(current version v1.0)*:
+Download the English patch here *(current version v1.01)*:
 
-[MediaFire](https://www.mediafire.com/file/yx6rr7z5x6mmdrk/KonosoraSP_ENG_v1.zip/file) • [Dropbox](https://www.dropbox.com/scl/fi/4kqw8s238a7fvwjbf2tkq/KonosoraSP_ENG_v1.zip?rlkey=r0w0zr6djzbiwchzqidp3ugkt&st=7ac3wz7v&dl=0) • [Mega](https://mega.nz/file/GdAFUCxa#kUTrlwQnvhdOjHvO55vGuALns6dva5T5fVM_T6hbRPg)
+[MediaFire](https://www.mediafire.com/file/w2kfv6o60v7gbkl/KonosoraSP_ENG_v1.01.zip/file) • [Dropbox](https://www.dropbox.com/scl/fi/zjchpbztx13l1m6i9j9hn/KonosoraSP_ENG_v1.01.zip?rlkey=jcl6yc79srvacaihk8i2x2c8a&st=4mu2qiws&dl=0) • Mega (Temporarily Unavailable.)
 
 ***Consult `readme.txt` for installation instructions. If there are any issues found after following the readme, please contact nReus (sviiseven) on discord: `@sviiseven`***
 
