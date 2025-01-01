@@ -34,7 +34,8 @@ Download the English patch here *(current version v1.01)*:
 Some things to note...
 ======
 - This patch has been tested on the DISC RELEASE only, however the DOWNLOAD RELEASE should be compatible.
-- You ***do not*** need to set your computer to Japanese locale and region formatting. Running via `AdvHDENG.exe` should allow you to proceed without having to change any settings. (Our patch implements the Locale Emulator program by xupefei via the Universal Injector Framework by AtomCrafty.)
+- ***The current version of the patch must be ran in Japanese locale.*** See below for more info.
+- v1.0 and v1.01 have an issue with the font we packed in, including crashes and the font not loading, particularly when the computer is in a non-JP locale and the game is run in Locale Emulator. Running without our font will show word wrapping issues. We aim to have this fixed in v1.1.
 
 [Snowy Ryujin](#snowy-ryujin)
 ======
